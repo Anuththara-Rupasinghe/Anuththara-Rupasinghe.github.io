@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Anuththara Rupasinghe"
+  description: "Personal academic and research portfolio of Anuththara Rupasinghe, a machine learning and computational neuroscience researcher."
   navbar:
     left:
       - href: index.qmd
