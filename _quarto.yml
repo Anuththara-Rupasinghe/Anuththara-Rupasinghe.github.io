@@ -37,3 +37,6 @@ format:
     page-layout: full
     link-external-newwindow: true
     css: styles.css
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="zmH0bxProW3QMUqO-HfRJrGWWF78c6Ah-vSyieSVFYw" />
