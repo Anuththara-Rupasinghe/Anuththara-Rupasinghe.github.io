@@ -6,6 +6,7 @@ website:
   title: "Anuththara Rupasinghe"
   description: "Personal academic and research portfolio of Anuththara Rupasinghe, a machine learning and computational neuroscience researcher."
   navbar:
+    logo: profile.png
     left:
       - href: index.qmd
         text: Bio
