@@ -1,0 +1,21 @@
+---
+title: "Contact"
+---
+
+I am interested in opportunities in machine learning, data science, applied research, computational neuroscience, and biomedical AI.
+
+## Email
+
+[ar0621@princeton.edu](mailto:ar0621@princeton.edu)  
+
+## Links
+
+- **LinkedIn:** [Anuththara Rupasinghe](https://www.linkedin.com/in/anuththara-rupasinghe-b1566b122/)  
+- **Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=6TQuQqsAAAAJ&hl=en)  
+- **GitHub:** [Anuththara-Rupasinghe](https://github.com/Anuththara-Rupasinghe)
+- **CV:** [Download CV](cv.pdf)
+
+## Location
+
+New Jersey / New York area  
+Open to research scientist, applied scientist, machine learning, data science, computational neuroscience, and biomedical AI roles.

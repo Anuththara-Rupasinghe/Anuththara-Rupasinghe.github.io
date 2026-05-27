@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+
+My research focuses on developing probabilistic machine learning and statistical signal processing methods for understanding neural and biological time-series data. I am especially interested in models that provide accurate predictions, calibrated uncertainty, and interpretable structure.
+
+## Research overview
+
+I work at the intersection of computational neuroscience, machine learning, Bayesian inference, and statistical signal processing. My research develops methods for extracting structure from high-dimensional neural and physiological data, including neuronal spiking activity, calcium imaging, whole-brain imaging, EEG/EMG, and ECG-derived physiological signals.
+
+## Continuous neural decoding
+
+A major focus of my recent work is developing flexible probabilistic models for decoding continuous variables from neural activity. This includes models that estimate full conditional probability distributions rather than only point predictions, allowing uncertainty to be quantified and evaluated.
+
+## Neural variability and latent structure
+
+I also develop latent variable models for understanding trial-to-trial neural variability. These models aim to separate stimulus-driven responses from slow stochastic gain fluctuations and other sources of variability in neural spike trains.
+
+## Time-series and spectral inference
+
+My doctoral research developed Bayesian methods for neural and physiological time-series analysis, including spectral estimation, Kalman filtering, generalized linear models, and methods for extracting latent temporal structure from multivariate data.
+
+## Broader interests
+
+Beyond neuroscience, I am interested in applying probabilistic modeling, machine learning, and uncertainty quantification to complex biomedical and high-dimensional time-series data.

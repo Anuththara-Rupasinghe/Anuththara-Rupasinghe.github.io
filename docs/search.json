@@ -1,0 +1,247 @@
+[
+  {
+    "objectID": "personal.html",
+    "href": "personal.html",
+    "title": "Personal",
+    "section": "",
+    "text": "Outside of work, I enjoy spending time with my family, traveling and exploring new places, baking, and reading books. I also enjoy presenting my research at conferences and connecting with researchers from different fields."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I am interested in opportunities in machine learning, data science, applied research, computational neuroscience, and biomedical AI."
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "Email",
+    "text": "Email\nar0621@princeton.edu"
+  },
+  {
+    "objectID": "contact.html#links",
+    "href": "contact.html#links",
+    "title": "Contact",
+    "section": "Links",
+    "text": "Links\n\nLinkedIn: Anuththara Rupasinghe\n\nGoogle Scholar: Google Scholar Profile\n\nGitHub: Anuththara-Rupasinghe\nCV: Download CV"
+  },
+  {
+    "objectID": "contact.html#location",
+    "href": "contact.html#location",
+    "title": "Contact",
+    "section": "Location",
+    "text": "Location\nNew Jersey / New York area\nOpen to research scientist, applied scientist, machine learning, data science, computational neuroscience, and biomedical AI roles."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A. Rupasinghe, A. S. Charles, and J. W. Pillow.\nContinuous partitioning of neuronal variability.\neLife, 15:RP109719,2026.\nCode\nP. Jendrichovsky, S. Khosravi, A. Rupasinghe, K. Maximov, P. Guo, B. Babadi, and P. O. Kanold.\nPatchy harmonic functional connectivity of the mouse auditory cortex.\nProceedings of the National Academy of Sciences (PNAS) U.S.A., 122(27): e2510012122, 2025.\nA. Rupasinghe, N. A. Francis, J. Liu, Z. Bowen, P. O. Kanold, and B. Babadi.\nDirect Extraction of Signal and Noise Correlations from Two-Photon Calcium Imaging of Ensemble Neuronal Activity.\neLife, 10:e68046, 2021.\nData | Code\nA. Rupasinghe and B. Babadi.\nMultitaper Analysis of Semi-Stationary Spectra From Multivariate Neuronal Spiking Observations.\nIEEE Transactions on Signal Processing, Vol. 68, pp. 4328-4396, 2020.\nCode\nS. S. P. Vithana, A. M. R. Abeysekara, T. S. J. Oorloff, A. Rupasinghe, H. M. V. R. Herath, G. M. R. I. Godaliyadda, and M. P. B. Ekanayake.\nComparison of Two Algorithms for Land Cover Mapping Based on Hyperspectral Imagery.\nInternational Journal on Advances in ICT for Emerging Regions (ICTer), 11(1), pp. 1-10, 2018."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "A. Rupasinghe, A. S. Charles, and J. W. Pillow.\nContinuous partitioning of neuronal variability.\neLife, 15:RP109719,2026.\nCode\nP. Jendrichovsky, S. Khosravi, A. Rupasinghe, K. Maximov, P. Guo, B. Babadi, and P. O. Kanold.\nPatchy harmonic functional connectivity of the mouse auditory cortex.\nProceedings of the National Academy of Sciences (PNAS) U.S.A., 122(27): e2510012122, 2025.\nA. Rupasinghe, N. A. Francis, J. Liu, Z. Bowen, P. O. Kanold, and B. Babadi.\nDirect Extraction of Signal and Noise Correlations from Two-Photon Calcium Imaging of Ensemble Neuronal Activity.\neLife, 10:e68046, 2021.\nData | Code\nA. Rupasinghe and B. Babadi.\nMultitaper Analysis of Semi-Stationary Spectra From Multivariate Neuronal Spiking Observations.\nIEEE Transactions on Signal Processing, Vol. 68, pp. 4328-4396, 2020.\nCode\nS. S. P. Vithana, A. M. R. Abeysekara, T. S. J. Oorloff, A. Rupasinghe, H. M. V. R. Herath, G. M. R. I. Godaliyadda, and M. P. B. Ekanayake.\nComparison of Two Algorithms for Land Cover Mapping Based on Hyperspectral Imagery.\nInternational Journal on Advances in ICT for Emerging Regions (ICTer), 11(1), pp. 1-10, 2018."
+  },
+  {
+    "objectID": "publications.html#conference-papers",
+    "href": "publications.html#conference-papers",
+    "title": "Publications",
+    "section": "Conference papers",
+    "text": "Conference papers\n\nA. Rupasinghe and J. W. Pillow.\nContinuous Multinomial Logistic Regression for Neural Decoding.\nInternational Conference on Learning Representations (ICLR 2026), April 23-27, 2026, Rio de Janeiro, Brazil.\nCode\nS. Khosravi, A. Rupasinghe, and B. Babadi.\nGranger Causal Inference from Spiking Observations via Latent Variable Modeling.\nProceedings of the 56th Asilomar Conference on Signals, Systems, and Computers (Asilomar 2022), Oct. 30-Nov. 2, 2022, Pacific Grove, CA.\nA. Rupasinghe, S. Mukherjee, and B. Babadi.\nAdaptive Frequency-domain Granger Causal Inference from Neuronal Ensemble Data.\nProceedings of the 54th Asilomar Conference on Signals, Systems, and Computers (Asilomar 2020), Nov. 1-5, 2020, Pacific Grove, CA.\nA. Rupasinghe and B. Babadi.\nRobust Inference of Neuronal Correlations from Blurred and Noisy Spiking Observations.\nProceedings of the 54th Annual Conference on Information Sciences and Systems (CISS 2020), March 18-20, 2020, Princeton, NJ.\nA. Rupasinghe and B. Babadi.\nMultitaper Analysis of Evolutionary Spectral Density Matrix From Multivariate Spiking Observations.\nProceedings of the 2nd IEEE Data Science Workshop (DSW 2019), June 2-5, 2019, Minneapolis, MN.\nA. Rupasinghe, D. A. Padmasiri, S. G. M. P. Senanayake, G. M. R. I. Godaliyadda, M. P. B. Ekanayake, and J. V. Wijayakulasooriya.\nDynamic clustering for event detection and anomaly identification in video surveillance.\nProceedings of the 12th IEEE International Conference on Industrial and Information Systems (ICIIS 2017), Dec. 15-16, 2017, Peradeniya, Sri Lanka.\nT. S. J. Oorloff, A. M. R. Abeysekara, S. S. P. Vithana, A. Rupasinghe, H. M. V. R. Herath, G. M. R. I. Godaliyadda, and M. P. B. Ekanayake.\nSpectral-spatial hybrid mechanism for feature detection using spectral correlation.\nProceedings of the 12th IEEE International Conference on Industrial and Information Systems (ICIIS 2017), Dec. 15-16, 2017, Peradeniya, Sri Lanka.\nS. S. P. Vithana, A. M. R. Abeysekara, T. S. J. Oorloff, A. Rupasinghe, H. M. V. R. Herath, G. M. R. I. Godaliyadda, and M. P. B. Ekanayake.\nHyperspectral imaging based land cover mapping using data obtained by the Hyperion sensor.\nProceedings of the 17th IEEE International Conference on Advances in ICT for Emerging Regions (ICTer 2017), Sept. 7-8, 2017, Colombo, Sri Lanka.\nA. Rupasinghe, S. G. M. P. Senanayake, D. A. Padmasiri, M. P. B. Ekanayake, G. M. R. I. Godaliyadda, and J. V. Wijayakulasooriya.\nModes of clustering for motion pattern analysis in video surveillance.\nProceedings of the 8th IEEE International Conference on Information and Automation for Sustainability (ICIAfS 2016), Dec. 16-19, 2016, Galle, Sri Lanka."
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n\nR. Zhang, Z. Wei, J. J. How, M. Nardin, S. Narayan, A. Kinkhabwala, W. Chen, J.-X. Lim, V. M. S. Ruetten, A. Rupasinghe, M. Haesemeyer, B. D. Mensh, M. C. Fishman, F. Engert, B. Babadi, J. Du, D. A. Prober, and M. B. Ahrens.\nA neuron-glia circuit anticipates hypoxia to regulate organismal oxygen use.\nbioRxiv, 2026.\ndoi: 10.64898/2026.04.10.717666"
+  },
+  {
+    "objectID": "publications.html#abstracts-posters-talks-and-workshop-presentations",
+    "href": "publications.html#abstracts-posters-talks-and-workshop-presentations",
+    "title": "Publications",
+    "section": "Abstracts, posters, talks, and workshop presentations",
+    "text": "Abstracts, posters, talks, and workshop presentations\n\nA. Rupasinghe and J. W. Pillow.\nContinuous Multinomial Logistic Regression for Neural Decoding.\nComputational and Systems Neuroscience (Cosyne 2026), March 12-15, 2026, Lisbon, Portugal.\nA. Rupasinghe, A. S. Charles, and J. W. Pillow.\nContinuous partitioning of neuronal variability.\nComputational and Systems Neuroscience (Cosyne 2026), March 12-15, 2026, Lisbon, Portugal.\nA. Rupasinghe, A. S. Charles, and J. W. Pillow.\nContinuous partitioning of neuronal variability.\n11th Statistical Analysis of Neural Data (SAND 2025) Workshop, June 11-13, 2025, New York, NY.\nA. Rupasinghe, A. S. Charles, and J. W. Pillow.\nContinuous partitioning of neuronal variability.\nProceedings of the 52nd Annual Neuroscience Meeting (SfN 2024), Oct. 5-9, 2024, Chicago, IL.\nS. Khosravi, A. Rupasinghe, and B. Babadi.\nInferring Directional Connectivity from Spiking Observations via Latent Variable Modeling.\nProceedings of the 50th Annual Neuroscience Meeting (SfN 2022), Nov. 11-15, 2022, San Diego, CA.\nA. Rupasinghe, N. A. Francis, J. Liu, Z. Bowen, P. O. Kanold, and B. Babadi.\nDirect inference of signal and noise correlations from two-photon calcium imaging data without intermediate spike deconvolution.\nProceedings of the 50th Annual Neuroscience Meeting (SfN 2021), Nov. 8-11, 2021, Chicago, IL."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on developing probabilistic machine learning and statistical signal processing methods for understanding neural and biological time-series data. I am especially interested in models that provide accurate predictions, calibrated uncertainty, and interpretable structure."
+  },
+  {
+    "objectID": "research.html#research-overview",
+    "href": "research.html#research-overview",
+    "title": "Research",
+    "section": "Research overview",
+    "text": "Research overview\nI work at the intersection of computational neuroscience, machine learning, Bayesian inference, and statistical signal processing. My research develops methods for extracting structure from high-dimensional neural and physiological data, including neuronal spiking activity, calcium imaging, whole-brain imaging, EEG/EMG, and ECG-derived physiological signals."
+  },
+  {
+    "objectID": "research.html#continuous-neural-decoding",
+    "href": "research.html#continuous-neural-decoding",
+    "title": "Research",
+    "section": "Continuous neural decoding",
+    "text": "Continuous neural decoding\nA major focus of my recent work is developing flexible probabilistic models for decoding continuous variables from neural activity. This includes models that estimate full conditional probability distributions rather than only point predictions, allowing uncertainty to be quantified and evaluated."
+  },
+  {
+    "objectID": "research.html#neural-variability-and-latent-structure",
+    "href": "research.html#neural-variability-and-latent-structure",
+    "title": "Research",
+    "section": "Neural variability and latent structure",
+    "text": "Neural variability and latent structure\nI also develop latent variable models for understanding trial-to-trial neural variability. These models aim to separate stimulus-driven responses from slow stochastic gain fluctuations and other sources of variability in neural spike trains."
+  },
+  {
+    "objectID": "research.html#time-series-and-spectral-inference",
+    "href": "research.html#time-series-and-spectral-inference",
+    "title": "Research",
+    "section": "Time-series and spectral inference",
+    "text": "Time-series and spectral inference\nMy doctoral research developed Bayesian methods for neural and physiological time-series analysis, including spectral estimation, Kalman filtering, generalized linear models, and methods for extracting latent temporal structure from multivariate data."
+  },
+  {
+    "objectID": "research.html#broader-interests",
+    "href": "research.html#broader-interests",
+    "title": "Research",
+    "section": "Broader interests",
+    "text": "Broader interests\nBeyond neuroscience, I am interested in applying probabilistic modeling, machine learning, and uncertainty quantification to complex biomedical and high-dimensional time-series data."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Bio",
+    "section": "Research interests",
+    "text": "Research interests\n\nMachine learning\nBayesian inference\nPredictive modeling\nData science\nTime-series analysis\nStatistical signal processing\nComputational neuroscience\nBiomedical AI\nUncertainty quantification"
+  },
+  {
+    "objectID": "index.html#selected-awards-honors",
+    "href": "index.html#selected-awards-honors",
+    "title": "Bio",
+    "section": "Selected Awards & Honors",
+    "text": "Selected Awards & Honors\n\nPrinceton Neuroscience Institute QCN T32 Postdoctoral Fellowship Award, 2024\nSfN Trainee Professional Development Award, 2024\nRising Stars in EECS Award, 2022\nOutstanding Teaching Assistant, Department of Electrical & Computer Engineering, University of Maryland, 2018\nClark School of Engineering Distinguished Graduate Fellowship, University of Maryland, 2017\nPrizes awarded at the General Convocation, University of Peradeniya, Sri Lanka, 2016\n\nC. A. Hewavitharana Prize for the Best Performance in Engineering\nCeylon Electricity Board Gold Medal and Prize for the Best Performance in Electrical & Electronic Engineering\nE. F. Bartholomeusz Prize for the Best Performance in Engineering Mathematics\nW. M. G. Fernando Prize for the Best Performance in Electronic Communications\nR. H. Paul Prize for the Best Performance in Electrical Power and Machines\n\nMost Outstanding Performance of the Year, Mahamaya Girls’ College, Kandy, Sri Lanka, 2011\nRanked 4th in Sri Lanka, G.C.E. Advanced Level Examination, Physical Science stream, 2011\nRanked 9th in Sri Lanka, Olympiad Mathematics Competition, 2011"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Bio",
+    "section": "Contact",
+    "text": "Contact\nEmail: ar0621@princeton.edu\nLinkedIn: Anuththara Rupasinghe\nGoogle Scholar: Google Scholar Profile\nGitHub: Anuththara-Rupasinghe"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "My projects develop probabilistic machine learning, Bayesian inference, and statistical signal processing methods for analyzing neural, physiological, and behavioral data. These projects span neural decoding, spike-train modeling, Bayesian inference, spectral analysis, causal inference, physiological time-series analysis, and computer vision."
+  },
+  {
+    "objectID": "projects.html#continuous-multinomial-logistic-regression",
+    "href": "projects.html#continuous-multinomial-logistic-regression",
+    "title": "Projects",
+    "section": "Continuous Multinomial Logistic Regression",
+    "text": "Continuous Multinomial Logistic Regression\n\nPublished in: International Conference on Learning Representations (ICLR 2026)\n\nCode: Python (PyTorch)\n\nKeywords: Conditional density estimation, Gaussian processes, variational inference, uncertainty calibration, neural decoding, logistic regression, circular variables\n\nI developed Continuous Multinomial Logistic Regression (CMLR), a probabilistic framework for decoding continuous variables such as orientation, position, velocity, and head direction from neural population activity. CMLR generalizes multinomial logistic regression to continuous output spaces and estimates a full probability density over decoded variables rather than only a point estimate.\nThe model uses smooth, interpretable neuron-specific weight functions regularized by Gaussian process priors, allowing it to capture multimodal, asymmetric, and circular conditional distributions. I developed scalable Fourier-domain stochastic variational inference methods and evaluated CMLR on datasets from visual cortex, hippocampus, and motor cortex, where it produced well-calibrated posterior densities and outperformed DNNs, XGBoost, FlexCode, and Naive Bayes decoders."
+  },
+  {
+    "objectID": "projects.html#continuous-partitioning-of-neuronal-variability",
+    "href": "projects.html#continuous-partitioning-of-neuronal-variability",
+    "title": "Projects",
+    "section": "Continuous partitioning of neuronal variability",
+    "text": "Continuous partitioning of neuronal variability\n\nPublished in: eLife, 2026\n\nCode: MATLAB\n\nKeywords: Spike trains, neural coding, Gaussian processes, overdispersion, variational inference\n\nI developed the Continuous Modulated Poisson (CMP) model, a continuous-time framework for partitioning neuronal variability in overdispersed spike trains into stimulus-driven activity and stimulus-independent modulatory gain fluctuations. CMP models a neuron’s instantaneous firing rate as the product of a time-varying stimulus drive and a stochastic gain process, both represented as exponentiated Gaussian processes.\nI introduced the Exponentiated Power Law (EPL) kernel to capture slowly decaying gain correlations and analytically link latent variability to Fano factor behavior across bin sizes. I also developed a scalable frequency-domain variational inference procedure for fitting the model efficiently. Applied to spike responses from LGN, V1, V2, and MT, CMP captured variability across timescales and revealed that modulatory gain fluctuations become larger and slower in higher visual areas."
+  },
+  {
+    "objectID": "projects.html#direct-extraction-of-signal-and-noise-correlations-from-two-photon-calcium-imaging",
+    "href": "projects.html#direct-extraction-of-signal-and-noise-correlations-from-two-photon-calcium-imaging",
+    "title": "Projects",
+    "section": "Direct Extraction of Signal and Noise Correlations from Two-Photon Calcium Imaging",
+    "text": "Direct Extraction of Signal and Noise Correlations from Two-Photon Calcium Imaging\n\nPublished in: eLife, 2021\n\nFollow-up application: PNAS, 2025\n\nCode: MATLAB\n\nKeywords: Two-photon calcium imaging, signal correlations, noise correlations, Bayesian inference, variational inference, state-space modeling\n\nI developed a Bayesian framework for directly estimating signal and noise correlations from two-photon calcium imaging data without requiring an intermediate spike-deconvolution step. This work was done in collaboration with the Kanold Lab at Johns Hopkins University. The method addresses the challenge that fluorescence traces are noisy and temporally blurred observations of underlying spiking activity, which can bias conventional correlation estimates.\nThe model combines point-process modeling, state-space methods, Pólya-Gamma augmentation, and variational inference to relate latent spiking activity and correlation structure directly to observed fluorescence traces. This provides an efficient approach for jointly estimating signal and noise correlations while accounting for calcium dynamics, observation noise, stimulus effects, and latent variability. Applied to simulated data and real recordings from mouse auditory cortex, the method recovered reliable correlation structure across spontaneous and stimulus-driven conditions and revealed distinct spatial trends in signal and noise correlations across cortical layers."
+  },
+  {
+    "objectID": "projects.html#multitaper-analysis-of-semi-stationary-spectra-from-multivariate-neuronal-spiking-observations",
+    "href": "projects.html#multitaper-analysis-of-semi-stationary-spectra-from-multivariate-neuronal-spiking-observations",
+    "title": "Projects",
+    "section": "Multitaper Analysis of Semi-Stationary Spectra from Multivariate Neuronal Spiking Observations",
+    "text": "Multitaper Analysis of Semi-Stationary Spectra from Multivariate Neuronal Spiking Observations\n\nPublished in: IEEE Transactions on Signal Processing, 2020\nCode: MATLAB\nKeywords: Neuronal spiking data, multitaper spectral analysis, semi-stationary spectra, state-space modeling, generalized linear models, Bayesian inference\n\nI developed a statistical framework for estimating time-varying spectral structure directly from multivariate neuronal spiking observations. The method addresses limitations of existing approaches that either rely on time-domain smoothing before spectral analysis or are restricted to univariate spike trains.\nThe framework models spiking activity using generalized linear models and estimates semi-stationary spectral density matrices within a multitaper and state-space modeling framework. This allows spectral dynamics and cross-spectral coupling between neurons to be inferred directly from spike-train data with improved spectrotemporal resolution. I validated the method using simulations and experimentally recorded neural data, including rat cortical recordings during sleep and human spike/LFP recordings during general anesthesia. The results showed that the method can recover meaningful spectrotemporal dynamics from neuronal spiking activity and provides theoretical bias-variance guarantees."
+  },
+  {
+    "objectID": "projects.html#adaptive-frequency-domain-granger-causal-inference-from-neuronal-ensemble-data",
+    "href": "projects.html#adaptive-frequency-domain-granger-causal-inference-from-neuronal-ensemble-data",
+    "title": "Projects",
+    "section": "Adaptive Frequency-Domain Granger Causal Inference from Neuronal Ensemble Data",
+    "text": "Adaptive Frequency-Domain Granger Causal Inference from Neuronal Ensemble Data\n\nPublished in: Proceedings of the 54th Asilomar Conference on Signals, Systems, and Computers, 2020\n\nFollow-up work: Asilomar 2022\n\nKeywords: Granger causality, frequency-domain inference, neuronal ensembles, point-process modeling, state-space estimation, multitaper spectral analysis\n\nI developed an adaptive frequency-domain Granger causal inference framework for estimating directed functional interactions from multivariate neuronal spiking observations. The method combines point-process modeling, state-space estimation, and multitaper spectral analysis to infer how directed interactions between neurons vary across time and frequency.\nThe framework builds on frequency-domain Granger causality and includes statistical tests for assessing the significance of inferred functional links. I validated the method using simulated and real neuronal ensemble data, demonstrating its utility for characterizing dynamic directed connectivity in neural populations."
+  },
+  {
+    "objectID": "projects.html#investigating-and-modeling-larval-zebrafish-respiration-locomotion-coordination",
+    "href": "projects.html#investigating-and-modeling-larval-zebrafish-respiration-locomotion-coordination",
+    "title": "Projects",
+    "section": "Investigating and Modeling Larval Zebrafish Respiration-Locomotion Coordination",
+    "text": "Investigating and Modeling Larval Zebrafish Respiration-Locomotion Coordination\n\nPublished in: Ph.D. dissertation chapter\nPreprint: bioRxiv, 2026\n\nCode: Python\n\nKeywords: Larval zebrafish, whole-brain light-sheet imaging, respiration, locomotion, spectrotemporal analysis, neural circuit modeling\n\nI investigated the neural mechanisms underlying respiration-locomotion coordination in larval zebrafish in collaboration with the Ahrens Lab at Janelia Research Campus, HHMI. This project used whole-brain light-sheet microscopy imaging, simultaneously recorded electrophysiological data, optogenetic stimulation, and two-photon ablation experiments to identify brain regions synchronized with respiratory rhythm and understand how swimming behavior is coordinated with breathing.\nI applied multitaper spectrotemporal analysis and cross-spectral phase analysis to identify respiratory neurons and categorize them based on their phase relative to the breathing rhythm. The analyses showed that swimming is phase-locked to breathing and gated by respiratory rhythm, revealing a structured coupling between locomotor and respiratory behaviors. To interpret the underlying circuit mechanisms, I also developed a spiking neural circuit model using Izhikevich neurons that reproduced the observed swimming-respiration coupling."
+  },
+  {
+    "objectID": "projects.html#denoised-multitaper-frequency-domain-heart-rate-variability-analysis",
+    "href": "projects.html#denoised-multitaper-frequency-domain-heart-rate-variability-analysis",
+    "title": "Projects",
+    "section": "Denoised Multitaper Frequency-Domain Heart Rate Variability Analysis",
+    "text": "Denoised Multitaper Frequency-Domain Heart Rate Variability Analysis\n\nPublished in: Ph.D. dissertation chapter\nCode: Python\nKeywords: Heart rate variability, ECG, spectral analysis, multitaper methods, Bayesian inference, physiological time series\n\nI developed a denoised multitaper frequency-domain framework for analyzing heart rate variability from short-term ECG recordings. The method estimates interpretable HRV spectral components, including low-frequency and high-frequency power, which are commonly used to assess autonomic nervous system activity.\nThe framework extends classical multitaper spectral analysis using a Bayesian formulation that explicitly accounts for measurement noise and additive artifacts. I developed an expectation-maximization procedure for estimating denoised spectra and confidence bounds, and applied the method to 5-minute single-lead ECG recordings in collaboration with Professor Nicholas Schiff’s lab at Weill Cornell Medicine."
+  },
+  {
+    "objectID": "projects.html#modes-of-clustering-for-motion-pattern-analysis-in-video-surveillance",
+    "href": "projects.html#modes-of-clustering-for-motion-pattern-analysis-in-video-surveillance",
+    "title": "Projects",
+    "section": "Modes of Clustering for Motion Pattern Analysis in Video Surveillance",
+    "text": "Modes of Clustering for Motion Pattern Analysis in Video Surveillance\n\nPublished in: Proceedings of the 8th IEEE International Conference on Information and Automation for Sustainability (ICIIS), 2016\n\nFollow-up work: ICIIS 2017\n\nKeywords: Video surveillance, motion pattern analysis, spectral clustering, trajectory analysis, affinity matrix, computer vision\n\nI developed a motion pattern analysis framework for video surveillance data based on trajectory extraction, affinity construction, and normalized spectral clustering. The project addressed the challenge of identifying meaningful movement patterns in video streams while accounting for the fact that real-world motion patterns can be interpreted at multiple levels of detail.\nThe work introduced the concept of Modes of Clustering, where multiple valid clustering arrangements can exist for the same scene depending on the level of zoom or granularity. I also developed a Sigma Sweep approach for detecting significant clustering modes by varying the scale parameter in spectral clustering. This framework provides a more detailed representation of motion patterns that better reflects human perception and was validated through a video surveillance case study."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can download my full CV here:\nDownload CV"
+  },
+  {
+    "objectID": "cv.html#full-cv",
+    "href": "cv.html#full-cv",
+    "title": "CV",
+    "section": "Full CV",
+    "text": "Full CV"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching, Mentoring & Service",
+    "section": "",
+    "text": "I have taught and supported undergraduate and graduate courses in probability, stochastic processes, signal processing, electronics, and engineering fundamentals. My teaching experience includes classroom support, laboratory instruction, tutorials, student mentoring, and graduate teaching assistant training.\n\n\nGraduate Teaching Assistant, Department of Electrical & Computer Engineering\n2017 - 2019\n\nTaught undergraduate Engineering Probability and graduate Random Processes in Communication and Control.\nLed problem-solving sessions, coducted office hours, supported students with probability and stochastic processes concepts, and assisted with grading and course logistics.\nReceived the Outstanding Teaching Assistant Award from the Department of Electrical & Computer Engineering, University of Maryland.\nServed as a Teaching Assistant Training and Development Fellow, mentoring new graduate teaching assistants and conducting training workshops.\n\n\n\n\nTemporary Instructor, Department of Electrical & Electronic Engineering\n2016 - 2017\n\nConducted laboratory and tutorial sessions for multiple undergraduate courses in signal processing, electronics, and electrical engineering.\nSupported students through hands-on instruction, technical demonstrations, and problem-solving sessions."
+  },
+  {
+    "objectID": "teaching.html#teaching",
+    "href": "teaching.html#teaching",
+    "title": "Teaching, Mentoring & Service",
+    "section": "",
+    "text": "I have taught and supported undergraduate and graduate courses in probability, stochastic processes, signal processing, electronics, and engineering fundamentals. My teaching experience includes classroom support, laboratory instruction, tutorials, student mentoring, and graduate teaching assistant training.\n\n\nGraduate Teaching Assistant, Department of Electrical & Computer Engineering\n2017 - 2019\n\nTaught undergraduate Engineering Probability and graduate Random Processes in Communication and Control.\nLed problem-solving sessions, coducted office hours, supported students with probability and stochastic processes concepts, and assisted with grading and course logistics.\nReceived the Outstanding Teaching Assistant Award from the Department of Electrical & Computer Engineering, University of Maryland.\nServed as a Teaching Assistant Training and Development Fellow, mentoring new graduate teaching assistants and conducting training workshops.\n\n\n\n\nTemporary Instructor, Department of Electrical & Electronic Engineering\n2016 - 2017\n\nConducted laboratory and tutorial sessions for multiple undergraduate courses in signal processing, electronics, and electrical engineering.\nSupported students through hands-on instruction, technical demonstrations, and problem-solving sessions."
+  },
+  {
+    "objectID": "teaching.html#mentoring",
+    "href": "teaching.html#mentoring",
+    "title": "Teaching, Mentoring & Service",
+    "section": "Mentoring",
+    "text": "Mentoring\nI have mentored students and junior researchers on projects involving statistical modeling, signal processing, machine learning, neural data analysis, and pattern recognition.\n\nMentored a graduate student on methodological extensions for Granger causal inference from neuronal spiking observations via latent variable modeling.\nMentored undergraduate students in adapting clustering and pattern analysis methods to hyperspectral imaging-based land cover mapping.\nGuided fellow students in undergraduate engineering mini-projects at the University of Peradeniya.\nSupported students and collaborators in developing analysis pipelines, interpreting statistical modeling results, and communicating technical findings.\nGuided students in using computational methods including Bayesian inference, spectral analysis, clustering, time-series analysis, and machine learning."
+  },
+  {
+    "objectID": "teaching.html#academic-service",
+    "href": "teaching.html#academic-service",
+    "title": "Teaching, Mentoring & Service",
+    "section": "Academic service",
+    "text": "Academic service\nI have contributed to the academic community through peer review, graduate student service, teaching assistant training, and conference organization.\n\nPeer-reviewed journal papers for Nature Communications Biology, Journal of the American Statistical Association, IEEE Transactions on Signal Processing, and IEEE Transactions on Information Theory.\nPeer-reviewed conference papers for IEEE Asilomar, IEEE IAS GUCON, and IEEE ICIIS.\nServed as a Teaching Assistant Training and Development Fellow in the Department of Electrical & Computer Engineering at the University of Maryland, mentoring new graduate teaching assistants and conducting training workshops (2018-2019).\nServed as a board member of the Electrical & Computer Engineering Graduate Student Association (ECEGSA) at the University of Maryland (2018-2019). Helped organizing an industrial career panel and a Ph.D. qualifying exam panel through ECEGSA.\nServed as a voluntary member of the organizing committee for the International Conference on Structural Engineering and Construction Management (ICSECM 2013) at the University of Peradeniya, supporting proceedings organization and conference session logistics."
+  },
+  {
+    "objectID": "teaching.html#teaching-interests",
+    "href": "teaching.html#teaching-interests",
+    "title": "Teaching, Mentoring & Service",
+    "section": "Teaching interests",
+    "text": "Teaching interests\nI am interested in teaching and mentoring in areas including:\n\nProbability and statistics\nMachine learning\nSignals and systems\nPattern recognition\nOptimization and inference\nComputational neuroscience\nStatistical signal processing\nBayesian inference\nTime-series analysis\nNeural data analysis\nPython and MATLAB for data analysis"
+  }
+]

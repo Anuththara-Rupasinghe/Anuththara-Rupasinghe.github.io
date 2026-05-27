@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Anuththara Rupasinghe"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Bio
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching & Service
+      - href: cv.qmd
+        text: CV
+      - href: personal.qmd
+        text: Personal
+      - href: contact.qmd
+        text: Contact
+
+    right:
+      - text: Google Scholar
+        href: "https://scholar.google.com/citations?user=6TQuQqsAAAAJ&hl=en"
+      - text: LinkedIn
+        href: "https://www.linkedin.com/in/anuththara-rupasinghe-b1566b122/"
+      - text: GitHub
+        href: "https://github.com/Anuththara-Rupasinghe"
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    page-layout: full
+    link-external-newwindow: true
+    css: styles.css

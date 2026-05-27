@@ -1,0 +1,29 @@
+---
+title: "Personal"
+---
+
+Outside of work, I enjoy spending time with my family, traveling and exploring new places, baking, and reading books. I also enjoy presenting my research at conferences and connecting with researchers from different fields.
+
+<div class="slideshow-container">
+  <img class="slide active" src="images/personal/photo1.jpg" alt="Personal photo 1">
+  <img class="slide" src="images/personal/photo2.jpg" alt="Personal photo 2">
+  <img class="slide" src="images/personal/photo3.jpg" alt="Personal photo 3">
+  <img class="slide" src="images/personal/photo4.jpg" alt="Personal photo 4">
+  <img class="slide" src="images/personal/photo5.jpg" alt="Personal photo 5">
+  <img class="slide" src="images/personal/photo6.jpg" alt="Personal photo 6">
+  <img class="slide" src="images/personal/photo7.jpg" alt="Personal photo 7">
+  <img class="slide" src="images/personal/photo8.jpg" alt="Personal photo 8">
+</div>
+
+<script>
+let slideIndex = 0;
+const slides = document.querySelectorAll(".slide");
+
+function showSlides() {
+  slides.forEach((slide) => slide.classList.remove("active"));
+  slideIndex = (slideIndex + 1) % slides.length;
+  slides[slideIndex].classList.add("active");
+}
+
+setInterval(showSlides, 2000);
+</script>

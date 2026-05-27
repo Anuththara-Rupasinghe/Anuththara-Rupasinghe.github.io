@@ -1,0 +1,101 @@
+---
+title: "Publications"
+---
+
+## Journal articles
+
+1. **A. Rupasinghe**, A. S. Charles, and J. W. Pillow.  
+   [**Continuous partitioning of neuronal variability**](https://elifesciences.org/reviewed-preprints/109719).  
+   *eLife*, 15:RP109719,2026.  
+   [Code](https://github.com/Anuththara-Rupasinghe/CMP)
+
+2. P. Jendrichovsky, S. Khosravi, **A. Rupasinghe**, K. Maximov, P. Guo, B. Babadi, and P. O. Kanold.  
+   [**Patchy harmonic functional connectivity of the mouse auditory cortex**](https://doi.org/10.1073/pnas.2510012122).  
+   *Proceedings of the National Academy of Sciences (PNAS) U.S.A.*, 122(27): e2510012122, 2025.
+
+3. **A. Rupasinghe**, N. A. Francis, J. Liu, Z. Bowen, P. O. Kanold, and B. Babadi.  
+   [**Direct Extraction of Signal and Noise Correlations from Two-Photon Calcium Imaging of Ensemble Neuronal Activity**](https://elifesciences.org/articles/68046).  
+   *eLife*, 10:e68046, 2021.  
+   [Data](https://drum.lib.umd.edu/handle/1903/26917) | [Code](https://github.com/Anuththara-Rupasinghe/Signal-Noise-Correlation)
+
+4. **A. Rupasinghe** and B. Babadi.  
+   [**Multitaper Analysis of Semi-Stationary Spectra From Multivariate Neuronal Spiking Observations**](https://ieeexplore.ieee.org/document/9143473).  
+   *IEEE Transactions on Signal Processing*, Vol. 68, pp. 4328-4396, 2020.  
+   [Code](https://github.com/Anuththara-Rupasinghe/PPMT-ESD-Estimation)
+
+5. S. S. P. Vithana, A. M. R. Abeysekara, T. S. J. Oorloff, **A. Rupasinghe**, H. M. V. R. Herath, G. M. R. I. Godaliyadda, and M. P. B. Ekanayake.  
+   [**Comparison of Two Algorithms for Land Cover Mapping Based on Hyperspectral Imagery**](https://icter.sljol.info/articles/abstract/10.4038/icter.v11i1.7190/).  
+   *International Journal on Advances in ICT for Emerging Regions (ICTer)*, 11(1), pp. 1-10, 2018.
+
+
+## Conference papers
+
+1. **A. Rupasinghe** and J. W. Pillow.  
+   **Continuous Multinomial Logistic Regression for Neural Decoding**.  
+   *International Conference on Learning Representations (ICLR 2026)*, April 23-27, 2026, Rio de Janeiro, Brazil.   
+     [Code](https://github.com/Anuththara-Rupasinghe/CMLR)  
+
+2. S. Khosravi, **A. Rupasinghe**, and B. Babadi.  
+   [**Granger Causal Inference from Spiking Observations via Latent Variable Modeling**](https://ieeexplore.ieee.org/abstract/document/10051886).  
+   *Proceedings of the 56th Asilomar Conference on Signals, Systems, and Computers (Asilomar 2022)*, Oct. 30-Nov. 2, 2022, Pacific Grove, CA.
+
+3. **A. Rupasinghe**, S. Mukherjee, and B. Babadi.  
+   [**Adaptive Frequency-domain Granger Causal Inference from Neuronal Ensemble Data**](https://ieeexplore.ieee.org/abstract/document/9443471).  
+   *Proceedings of the 54th Asilomar Conference on Signals, Systems, and Computers (Asilomar 2020)*, Nov. 1-5, 2020, Pacific Grove, CA.
+
+4. **A. Rupasinghe** and B. Babadi.  
+   [**Robust Inference of Neuronal Correlations from Blurred and Noisy Spiking Observations**](https://ieeexplore.ieee.org/abstract/document/9086274).  
+   *Proceedings of the 54th Annual Conference on Information Sciences and Systems (CISS 2020)*, March 18-20, 2020, Princeton, NJ.
+
+5. **A. Rupasinghe** and B. Babadi.  
+   [**Multitaper Analysis of Evolutionary Spectral Density Matrix From Multivariate Spiking Observations**](https://ieeexplore.ieee.org/abstract/document/8755579).  
+   *Proceedings of the 2nd IEEE Data Science Workshop (DSW 2019)*, June 2-5, 2019, Minneapolis, MN.
+
+6. **A. Rupasinghe**, D. A. Padmasiri, S. G. M. P. Senanayake, G. M. R. I. Godaliyadda, M. P. B. Ekanayake, and J. V. Wijayakulasooriya.  
+   [**Dynamic clustering for event detection and anomaly identification in video surveillance**](https://ieeexplore.ieee.org/abstract/document/8300401).  
+   *Proceedings of the 12th IEEE International Conference on Industrial and Information Systems (ICIIS 2017)*, Dec. 15-16, 2017, Peradeniya, Sri Lanka.
+
+7. T. S. J. Oorloff, A. M. R. Abeysekara, S. S. P. Vithana, **A. Rupasinghe**, H. M. V. R. Herath, G. M. R. I. Godaliyadda, and M. P. B. Ekanayake.  
+   [**Spectral-spatial hybrid mechanism for feature detection using spectral correlation**](https://ieeexplore.ieee.org/abstract/document/8300371).  
+   *Proceedings of the 12th IEEE International Conference on Industrial and Information Systems (ICIIS 2017)*, Dec. 15-16, 2017, Peradeniya, Sri Lanka.
+
+8. S. S. P. Vithana, A. M. R. Abeysekara, T. S. J. Oorloff, **A. Rupasinghe**, H. M. V. R. Herath, G. M. R. I. Godaliyadda, and M. P. B. Ekanayake.  
+   [**Hyperspectral imaging based land cover mapping using data obtained by the Hyperion sensor**](https://ieeexplore.ieee.org/abstract/document/8257802).  
+   *Proceedings of the 17th IEEE International Conference on Advances in ICT for Emerging Regions (ICTer 2017)*, Sept. 7-8, 2017, Colombo, Sri Lanka.
+
+9. **A. Rupasinghe**, S. G. M. P. Senanayake, D. A. Padmasiri, M. P. B. Ekanayake, G. M. R. I. Godaliyadda, and J. V. Wijayakulasooriya.  
+   [**Modes of clustering for motion pattern analysis in video surveillance**](https://ieeexplore.ieee.org/abstract/document/7946550).  
+   *Proceedings of the 8th IEEE International Conference on Information and Automation for Sustainability (ICIAfS 2016)*, Dec. 16-19, 2016, Galle, Sri Lanka.
+
+## Preprints
+
+1. R. Zhang, Z. Wei, J. J. How, M. Nardin, S. Narayan, A. Kinkhabwala, W. Chen, J.-X. Lim, V. M. S. Ruetten, **A. Rupasinghe**, M. Haesemeyer, B. D. Mensh, M. C. Fishman, F. Engert, B. Babadi, J. Du, D. A. Prober, and M. B. Ahrens.  
+   [**A neuron-glia circuit anticipates hypoxia to regulate organismal oxygen use**](https://doi.org/10.64898/2026.04.10.717666).  
+   *bioRxiv*, 2026.  
+   doi: [10.64898/2026.04.10.717666](https://doi.org/10.64898/2026.04.10.717666)
+
+## Abstracts, posters, talks, and workshop presentations
+
+1. **A. Rupasinghe** and J. W. Pillow.  
+   **Continuous Multinomial Logistic Regression for Neural Decoding**.  
+   *Computational and Systems Neuroscience (Cosyne 2026)*, March 12-15, 2026, Lisbon, Portugal.
+
+2. **A. Rupasinghe**, A. S. Charles, and J. W. Pillow.  
+   **Continuous partitioning of neuronal variability**.  
+   *Computational and Systems Neuroscience (Cosyne 2026)*, March 12-15, 2026, Lisbon, Portugal.
+
+3. **A. Rupasinghe**, A. S. Charles, and J. W. Pillow.  
+   **Continuous partitioning of neuronal variability**.  
+   *11th Statistical Analysis of Neural Data (SAND 2025) Workshop*, June 11-13, 2025, New York, NY.
+
+4. **A. Rupasinghe**, A. S. Charles, and J. W. Pillow.  
+   **Continuous partitioning of neuronal variability**.  
+   *Proceedings of the 52nd Annual Neuroscience Meeting (SfN 2024)*, Oct. 5-9, 2024, Chicago, IL.
+
+5. S. Khosravi, **A. Rupasinghe**, and B. Babadi.  
+   **Inferring Directional Connectivity from Spiking Observations via Latent Variable Modeling**.  
+   *Proceedings of the 50th Annual Neuroscience Meeting (SfN 2022)*, Nov. 11-15, 2022, San Diego, CA.
+
+6. **A. Rupasinghe**, N. A. Francis, J. Liu, Z. Bowen, P. O. Kanold, and B. Babadi.  
+   **Direct inference of signal and noise correlations from two-photon calcium imaging data without intermediate spike deconvolution**.  
+   *Proceedings of the 50th Annual Neuroscience Meeting (SfN 2021)*, Nov. 8-11, 2021, Chicago, IL.

@@ -1,0 +1,59 @@
+---
+title: "Teaching, Mentoring & Service"
+---
+
+## Teaching
+
+I have taught and supported undergraduate and graduate courses in probability, stochastic processes, signal processing, electronics, and engineering fundamentals. My teaching experience includes classroom support, laboratory instruction, tutorials, student mentoring, and graduate teaching assistant training.
+
+#### University of Maryland, College Park  
+**Graduate Teaching Assistant, Department of Electrical & Computer Engineering**  
+2017 - 2019
+
+- Taught undergraduate **Engineering Probability** and graduate **Random Processes in Communication and Control**.
+- Led problem-solving sessions, coducted office hours, supported students with probability and stochastic processes concepts, and assisted with grading and course logistics.
+- Received the **Outstanding Teaching Assistant Award** from the Department of Electrical & Computer Engineering, University of Maryland.
+- Served as a **Teaching Assistant Training and Development Fellow**, mentoring new graduate teaching assistants and conducting training workshops.
+
+#### University of Peradeniya, Sri Lanka  
+**Temporary Instructor, Department of Electrical & Electronic Engineering**  
+2016 - 2017
+
+- Conducted laboratory and tutorial sessions for multiple undergraduate courses in signal processing, electronics, and electrical engineering.
+- Supported students through hands-on instruction, technical demonstrations, and problem-solving sessions.
+
+## Mentoring
+
+I have mentored students and junior researchers on projects involving statistical modeling, signal processing, machine learning, neural data analysis, and pattern recognition.
+
+- Mentored a graduate student on methodological extensions for [Granger causal inference from neuronal spiking observations via latent variable modeling](https://ieeexplore.ieee.org/abstract/document/10051886).
+- Mentored undergraduate students in adapting clustering and pattern analysis methods to [hyperspectral imaging-based land cover mapping](https://icter.sljol.info/articles/abstract/10.4038/icter.v11i1.7190/).
+- Guided fellow students in undergraduate engineering mini-projects at the University of Peradeniya.
+- Supported students and collaborators in developing analysis pipelines, interpreting statistical modeling results, and communicating technical findings.
+- Guided students in using computational methods including Bayesian inference, spectral analysis, clustering, time-series analysis, and machine learning.
+
+## Academic service
+
+I have contributed to the academic community through peer review, graduate student service, teaching assistant training, and conference organization.
+
+- Peer-reviewed journal papers for **Nature Communications Biology**, **Journal of the American Statistical Association**, **IEEE Transactions on Signal Processing**, and **IEEE Transactions on Information Theory**.
+- Peer-reviewed conference papers for **IEEE Asilomar**, **IEEE IAS GUCON**, and **IEEE ICIIS**.
+- Served as a **Teaching Assistant Training and Development Fellow** in the Department of Electrical & Computer Engineering at the University of Maryland, mentoring new graduate teaching assistants and conducting training workshops (2018-2019).
+- Served as a board member of the **Electrical & Computer Engineering Graduate Student Association (ECEGSA)** at the University of Maryland (2018-2019). Helped organizing an industrial career panel and a Ph.D. qualifying exam panel through ECEGSA.
+- Served as a voluntary member of the organizing committee for the **International Conference on Structural Engineering and Construction Management (ICSECM 2013)** at the University of Peradeniya, supporting proceedings organization and conference session logistics.
+
+## Teaching interests
+
+I am interested in teaching and mentoring in areas including:
+
+- Probability and statistics
+- Machine learning
+- Signals and systems
+- Pattern recognition
+- Optimization and inference
+- Computational neuroscience
+- Statistical signal processing
+- Bayesian inference
+- Time-series analysis
+- Neural data analysis
+- Python and MATLAB for data analysis
