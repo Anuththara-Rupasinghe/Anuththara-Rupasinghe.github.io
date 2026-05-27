@@ -80,3 +80,30 @@
 .slide.active {
   opacity: 1;
 }
+
+.navbar {
+  background-color: #005ebd  !important;
+}
+
+.navbar .navbar-brand,
+.navbar .navbar-nav .nav-link,
+.navbar .quarto-navbar-tools .quarto-navigation-tool {
+  color: white !important;
+}
+
+.navbar .navbar-nav .nav-link:hover,
+.navbar .quarto-navbar-tools .quarto-navigation-tool:hover {
+  color: #eaf3ff !important;
+}
+
+.navbar .navbar-nav .nav-link {
+  padding-left: 1.3rem !important;
+  padding-right: 1.3rem !important;
+  font-size: 1.2rem !important;
+  font-weight: 400 !important;
+}
+
+.navbar .navbar-brand {
+  font-size: 1.3rem !important;
+  font-weight: 600 !important;
+}
