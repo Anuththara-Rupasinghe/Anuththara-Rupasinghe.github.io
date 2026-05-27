@@ -147,13 +147,18 @@ body {
   padding-bottom: 0 !important;
 }
 
-/* Navbar logo */
-.navbar-logo {
-  height: 42px !important;
-  width: 42px !important;
-  max-height: 42px !important;
-  max-width: 42px !important;
+.navbar-logo,
+img.navbar-logo,
+.navbar-brand img {
+  height: 36px !important;
+  width: 36px !important;
+  max-height: 36px !important;
+  max-width: 36px !important;
+  min-height: 36px !important;
+  min-width: 36px !important;
   object-fit: cover !important;
   border-radius: 50% !important;
+  overflow: hidden !important;
+  display: inline-block !important;
   margin-right: 8px !important;
 }
