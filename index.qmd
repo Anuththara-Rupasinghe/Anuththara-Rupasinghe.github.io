@@ -1,5 +1,6 @@
 ---
-title: "Bio"
+title: ""
+pagetitle: "Anuththara Rupasinghe | Machine Learning, Data Science & Biomedical AI"
 ---
 
 ![](profile.png){fig-align="center" width="230"}
