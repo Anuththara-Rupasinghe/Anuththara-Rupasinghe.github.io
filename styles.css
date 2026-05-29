@@ -210,3 +210,57 @@ img.navbar-logo,
     filter: invert(1) !important;
   }
 }
+
+.timeline {
+  max-width: 900px;
+  margin: 1.5rem 0;
+  border-left: 3px solid #cfe5ff;
+  padding-left: 1.5rem;
+}
+
+.timeline-item {
+  display: grid;
+  grid-template-columns: 75px 1fr;
+  gap: 0.7rem;
+  margin-bottom: 0.75rem;   /* smaller gap between items */
+  position: relative;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -1.9rem;
+  top: 0.3rem;
+  width: 12px;
+  height: 12px;
+  background-color: #005ebd;
+  border-radius: 50%;
+  border: 3px solid #eaf4ff;
+}
+
+.timeline-year {
+  font-weight: 700;
+  color: #005ebd;
+  line-height: 1.35;
+}
+
+.timeline-content {
+  line-height: 1.35;        /* smaller line spacing */
+  margin: 0;
+}
+
+.timeline-content p {
+  margin: 0;                /* removes extra paragraph gaps */
+}
+
+@media (max-width: 768px) {
+  .timeline-item {
+    grid-template-columns: 1fr;
+    gap: 0.1rem;
+    margin-bottom: 0.9rem;
+  }
+
+  .timeline-year {
+    font-size: 1rem;
+  }
+}
