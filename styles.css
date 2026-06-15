@@ -1,3 +1,7 @@
+/* =========================
+   PROJECTS
+   ========================= */
+
 .project-block {
   display: grid;
   grid-template-columns: 420px 1fr;
@@ -42,6 +46,11 @@
   }
 }
 
+
+/* =========================
+   BIO
+   ========================= */
+
 .bio-name {
   margin-bottom: 0.25rem;
 }
@@ -57,6 +66,11 @@
   margin-top: 0;
   margin-bottom: 0.4rem;
 }
+
+
+/* =========================
+   PERSONAL-PAGE SLIDESHOW
+   ========================= */
 
 .slideshow-container {
   position: relative;
@@ -81,7 +95,11 @@
   opacity: 1;
 }
 
-/* Fixed navbar */
+
+/* =========================
+   FIXED NAVBAR
+   ========================= */
+
 .navbar {
   background-color: #eaf4ff !important;
   position: fixed !important;
@@ -91,60 +109,59 @@
   width: 100% !important;
   z-index: 9999 !important;
   min-height: 56px !important;
-  max-height: 56px !important;
   padding-top: 0 !important;
   padding-bottom: 0 !important;
-  display: flex !important;
-  align-items: center !important;
 }
 
-/* Add space so the page content does not hide behind the fixed navbar */
+/* Leave room for the fixed navbar */
 body {
   padding-top: 70px !important;
 }
 
-/* Keep navbar contents vertically centered */
+/* Main navbar container */
 .navbar .container-fluid,
 .navbar .navbar-container {
   min-height: 56px !important;
-  max-height: 56px !important;
   display: flex !important;
   align-items: center !important;
+  flex-wrap: nowrap !important;
 }
 
-/* Navbar text color */
+/* Text color and no wrapping */
 .navbar .navbar-brand,
 .navbar .navbar-nav .nav-link,
 .navbar .quarto-navbar-tools .quarto-navigation-tool {
   color: #111111 !important;
+  white-space: nowrap !important;
 }
 
-/* Navbar hover color */
+/* Hover color */
 .navbar .navbar-nav .nav-link:hover,
 .navbar .quarto-navbar-tools .quarto-navigation-tool:hover {
   color: #005ebd !important;
 }
 
-/* Navbar tab spacing and font size */
+/* Main navigation links */
 .navbar .navbar-nav .nav-link {
-  padding-left: 1.3rem !important;
-  padding-right: 1.3rem !important;
-  font-size: 1.2rem !important;
-  font-weight: 400 !important;
-  line-height: 56px !important;
+  padding-left: 0.9rem !important;
+  padding-right: 0.9rem !important;
   padding-top: 0 !important;
   padding-bottom: 0 !important;
+  font-size: 1.08rem !important;
+  font-weight: 400 !important;
+  line-height: 56px !important;
 }
 
-/* Your name on the left */
+/* Name on the left */
 .navbar .navbar-brand {
-  font-size: 1.3rem !important;
+  font-size: 1.2rem !important;
   font-weight: 600 !important;
   display: flex !important;
   align-items: center !important;
   height: 56px !important;
   padding-top: 0 !important;
   padding-bottom: 0 !important;
+  flex-shrink: 0 !important;
 }
 
 /* Navbar logo */
@@ -153,10 +170,10 @@ img.navbar-logo,
 .navbar-brand img {
   height: 36px !important;
   width: 36px !important;
-  max-height: 36px !important;
-  max-width: 36px !important;
   min-height: 36px !important;
   min-width: 36px !important;
+  max-height: 36px !important;
+  max-width: 36px !important;
   object-fit: cover !important;
   border-radius: 50% !important;
   overflow: hidden !important;
@@ -164,20 +181,105 @@ img.navbar-logo,
   margin-right: 8px !important;
 }
 
-/* Desktop: keep navbar collapse area flat */
+/* Keep navbar groups from wrapping */
+.navbar-nav {
+  flex-wrap: nowrap !important;
+}
+
+
+/* =========================
+   DESKTOP NAVBAR
+   ========================= */
+
 @media (min-width: 992px) {
   .navbar-collapse {
     background-color: transparent !important;
     padding: 0 !important;
     border-radius: 0 !important;
     box-shadow: none !important;
+    flex-wrap: nowrap !important;
   }
 }
 
-/* Mobile dropdown menu background */
+
+/* =========================
+   MEDIUM LAPTOP SCREENS
+   ========================= */
+
+@media (min-width: 992px) and (max-width: 1450px) {
+  .navbar .navbar-nav .nav-link {
+    padding-left: 0.5rem !important;
+    padding-right: 0.5rem !important;
+    font-size: 0.96rem !important;
+  }
+
+  .navbar .navbar-brand {
+    font-size: 1rem !important;
+  }
+
+  .navbar-logo,
+  img.navbar-logo,
+  .navbar-brand img {
+    height: 30px !important;
+    width: 30px !important;
+    min-height: 30px !important;
+    min-width: 30px !important;
+    max-height: 30px !important;
+    max-width: 30px !important;
+    margin-right: 6px !important;
+  }
+
+  .navbar-nav.navbar-nav-scroll.ms-auto .nav-link {
+    padding-left: 0.35rem !important;
+    padding-right: 0.35rem !important;
+  }
+
+  .navbar .quarto-navbar-tools .quarto-navigation-tool {
+    margin-left: 0.3rem !important;
+  }
+}
+
+
+/* =========================
+   SMALLER LAPTOP SCREENS
+   ========================= */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .navbar .navbar-nav .nav-link {
+    padding-left: 0.35rem !important;
+    padding-right: 0.35rem !important;
+    font-size: 0.88rem !important;
+  }
+
+  .navbar .navbar-brand {
+    font-size: 0.95rem !important;
+  }
+
+  .navbar-logo,
+  img.navbar-logo,
+  .navbar-brand img {
+    height: 28px !important;
+    width: 28px !important;
+    min-height: 28px !important;
+    min-width: 28px !important;
+    max-height: 28px !important;
+    max-width: 28px !important;
+  }
+}
+
+
+/* =========================
+   MOBILE NAVBAR
+   ========================= */
+
 @media (max-width: 991px) {
   .navbar {
     max-height: none !important;
+  }
+
+  .navbar .container-fluid,
+  .navbar .navbar-container {
+    flex-wrap: wrap !important;
   }
 
   .navbar-collapse,
@@ -189,11 +291,18 @@ img.navbar-logo,
     box-shadow: 0 8px 18px rgba(0, 0, 0, 0.12) !important;
   }
 
+  .navbar-collapse .navbar-nav {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    width: 100% !important;
+  }
+
   .navbar-collapse .nav-link {
     color: #111111 !important;
-    font-size: 1.1rem !important;
-    padding: 0.7rem 1rem !important;
+    width: 100% !important;
+    font-size: 1.05rem !important;
     line-height: 1.4 !important;
+    padding: 0.65rem 1rem !important;
   }
 
   .navbar-collapse .nav-link:hover {
@@ -203,13 +312,18 @@ img.navbar-logo,
   }
 
   .navbar-toggler {
-    border-color: #111111 !important;
+    border-color: transparent !important;
   }
 
   .navbar-toggler-icon {
     filter: invert(1) !important;
   }
 }
+
+
+/* =========================
+   TIMELINE
+   ========================= */
 
 .timeline {
   max-width: 900px;
@@ -222,7 +336,7 @@ img.navbar-logo,
   display: grid;
   grid-template-columns: 75px 1fr;
   gap: 0.7rem;
-  margin-bottom: 0.75rem;   /* smaller gap between items */
+  margin-bottom: 0.75rem;
   position: relative;
 }
 
@@ -245,12 +359,12 @@ img.navbar-logo,
 }
 
 .timeline-content {
-  line-height: 1.35;        /* smaller line spacing */
+  line-height: 1.35;
   margin: 0;
 }
 
 .timeline-content p {
-  margin: 0;                /* removes extra paragraph gaps */
+  margin: 0;
 }
 
 @media (max-width: 768px) {
