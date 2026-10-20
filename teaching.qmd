@@ -4,22 +4,31 @@ title: "Teaching, Mentoring & Service"
 
 ## Teaching
 
-I have taught and supported undergraduate and graduate courses in probability, stochastic processes, signal processing, electronics, and engineering fundamentals. My teaching experience includes classroom support, laboratory instruction, tutorials, student mentoring, and graduate teaching assistant training.
+I have experience teaching undergraduate and graduate courses in probability, stochastic processes, signals and systems, signal processing, and electronics. My teaching experience includes independent course instruction, lecture preparation, curriculum development, laboratory instruction, tutorials, and student mentoring. I enjoy communicating mathematical and engineering concepts to students and helping them develop a strong understanding of fundamental principles and their practical applications.
 
-#### University of Maryland, College Park  
+#### Rutgers University, New Brunswick
+**Part-Time Lecturer, Department of Biomedical Engineering**  
+2026 - Present
+
+- Instructor for **BME 309: Devices and Systems**, a core undergraduate course for junior-level biomedical engineering students.
+- Independently prepare and deliver lectures covering signals and systems, signal processing, circuits,and their applications to biomedical engineering.
+- Develop lecture materials, homework assignments, quizzes, and examinations to assess student understanding.
+- Provide academic support through office hours and coordinate with a teaching assistant to support student learning.
+
+#### University of Maryland, College Park
 **Graduate Teaching Assistant, Department of Electrical & Computer Engineering**  
 2017 - 2019
 
 - Taught undergraduate **Engineering Probability** and graduate **Random Processes in Communication and Control**.
-- Led problem-solving sessions, coducted office hours, supported students with probability and stochastic processes concepts, and assisted with grading and course logistics.
+- Led problem-solving sessions, conducted office hours, helped students understand probability and stochastic processes concepts, and assisted with grading and course logistics.
 - Received the **Outstanding Teaching Assistant Award** from the Department of Electrical & Computer Engineering, University of Maryland.
 - Served as a **Teaching Assistant Training and Development Fellow**, mentoring new graduate teaching assistants and conducting training workshops.
 
-#### University of Peradeniya, Sri Lanka  
+#### University of Peradeniya, Sri Lanka
 **Temporary Instructor, Department of Electrical & Electronic Engineering**  
 2016 - 2017
 
-- Conducted laboratory and tutorial sessions for multiple undergraduate courses in signal processing, electronics, and electrical engineering.
+- Conducted laboratory and tutorial sessions for undergraduate courses in signal processing, electronics, and electrical engineering.
 - Supported students through hands-on instruction, technical demonstrations, and problem-solving sessions.
 
 ## Mentoring
@@ -30,30 +39,29 @@ I have mentored students and junior researchers on projects involving statistica
 - Mentored undergraduate students in adapting clustering and pattern analysis methods to [hyperspectral imaging-based land cover mapping](https://icter.sljol.info/articles/abstract/10.4038/icter.v11i1.7190/).
 - Guided fellow students in undergraduate engineering mini-projects at the University of Peradeniya.
 - Supported students and collaborators in developing analysis pipelines, interpreting statistical modeling results, and communicating technical findings.
-- Guided students in using computational methods including Bayesian inference, spectral analysis, clustering, time-series analysis, and machine learning.
+- Guided students in using computational methods, including Bayesian inference, spectral analysis, clustering, time-series analysis, and machine learning.
 
-## Academic service
+## Academic Service
 
 I have contributed to the academic community through peer review, graduate student service, teaching assistant training, and conference organization.
 
-- Peer-reviewed journal papers for **Nature Communications Biology**, **Journal of the American Statistical Association**, **IEEE Transactions on Signal Processing**, and **IEEE Transactions on Information Theory**.
+- Peer-reviewed journal papers for **Communications Biology**, **Journal of the American Statistical Association**, **IEEE Transactions on Signal Processing**, and **IEEE Transactions on Information Theory**.
 - Peer-reviewed conference papers for **IEEE Asilomar**, **IEEE IAS GUCON**, and **IEEE ICIIS**.
 - Served as a **Teaching Assistant Training and Development Fellow** in the Department of Electrical & Computer Engineering at the University of Maryland, mentoring new graduate teaching assistants and conducting training workshops (2018-2019).
-- Served as a board member of the **Electrical & Computer Engineering Graduate Student Association (ECEGSA)** at the University of Maryland (2018-2019). Helped organizing an industrial career panel and a Ph.D. qualifying exam panel through ECEGSA.
-- Served as a voluntary member of the organizing committee for the **International Conference on Structural Engineering and Construction Management (ICSECM 2013)** at the University of Peradeniya, supporting proceedings organization and conference session logistics.
+- Served as a board member of the **Electrical & Computer Engineering Graduate Student Association (ECEGSA)** at the University of Maryland (2018-2019). Helped organize an industry career panel and a Ph.D. qualifying examination panel.
+- Served as a volunteer on the organizing committee for the **International Conference on Structural Engineering and Construction Management (ICSECM 2013)** at the University of Peradeniya, supporting conference proceedings and session logistics.
 
-## Teaching interests
+## Teaching Interests
 
-I am interested in teaching and mentoring in areas including:
+I am particularly interested in teaching courses that connect mathematical foundations, computational methods, and practical applications in engineering and data science. My teaching interests include:
 
 - Probability and statistics
-- Machine learning
 - Signals and systems
-- Pattern recognition
-- Optimization and inference
-- Computational neuroscience
+- Devices and systems in biomedical engineering
 - Statistical signal processing
+- Machine learning and pattern recognition
+- Optimization and statistical inference
 - Bayesian inference
 - Time-series analysis
-- Neural data analysis
-- Python and MATLAB for data analysis
+- Computational neuroscience and neural data analysis
+- Python and MATLAB for scientific computing
